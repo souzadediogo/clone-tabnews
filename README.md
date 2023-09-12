@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do tabnew.com.br para o curso.dev
+Implementation of tabnews.com.br for the curso.dev web development course for senior behaviors in software development.
