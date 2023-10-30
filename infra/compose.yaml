@@ -4,4 +4,8 @@ services:
     environment:
       POSTGRES_PASSWORD: "local_password"
     ports:
+<<<<<<< HEAD:infra/compose.yaml
       - "5432:5432"
+=======
+      - "5432:5432"
+>>>>>>> afd8bb9 (changes on):compose.yaml
