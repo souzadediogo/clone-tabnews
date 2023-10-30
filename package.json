@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Implementação do tabnew.com.br para o curso.dev",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
@@ -15,6 +16,7 @@
   "dependencies": {
     "next": "^13.1.6",
     "pg": "^8.11.3",
+    "postgresql-client": "^2.9.1",
     "psql": "^0.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
