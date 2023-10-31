@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Implementação do tabnew.com.br para o curso.dev",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
